@@ -1,11 +1,11 @@
 module.exports = {
   plugins: [
-    {
-      resolve: "gatsby-plugin-google-analytics",
-      options: {
-        trackingId: "",
-      },
-    },
+    // {
+    //   resolve: "gatsby-plugin-google-analytics",
+    //   options: {
+    //     trackingId: "",
+    //   },
+    // },
     "gatsby-plugin-image",
     "gatsby-transformer-remark",
     "gatsby-plugin-sharp",
